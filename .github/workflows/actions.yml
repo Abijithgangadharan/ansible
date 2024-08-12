@@ -11,4 +11,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Display contents of message.txt
-        run: New_File.txt
+        run: New_File
